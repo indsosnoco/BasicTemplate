@@ -1,8 +1,9 @@
 ---
-title: Test page
+title: Get Educated
 date: 2017-04-07 22:21:00 Z
 '2': 
-Field name: Test fields 1
+Field name:
+- 
 ---
 
-This is an example page
+This page will include info on how processes work and etc.
