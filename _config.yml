@@ -57,15 +57,14 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are thousands of local citizens resisting the Trump agenda through civic
-  action.
-email: 
+subtitle: We are local citizens resisting the Trump agenda through civic action.
+email: indivisible4all@gmail.com
 baseurl: 
 url: 
-twitter_username: 
-facebook_username: 
+twitter_username: "@Ind4AllSoSnoCo"
+facebook_username: https://www.facebook.com/groups/270954050003471
 background-image: "/uploads/31773994174_c2e5706218_k.jpg"
-member-count: 100
+member-count: 60 and growing
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
 gems:
