@@ -1,11 +1,10 @@
 ---
-title: Today's Win Against Trump
+title: Post Title Here
 date: 2017-02-01 23:50:00 Z
 categories:
 - jekyll
 - update
 main-image: "/uploads/oakland.jpg"
-event-start-date: 
 layout: post
 ---
 
