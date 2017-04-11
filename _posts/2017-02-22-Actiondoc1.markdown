@@ -6,7 +6,7 @@ categories:
 tags:
 - call now
 - confirmation hearing
-is featured: true
+is featured: false
 call-script-text: Hi, my name is ____, I'm a local constituent. My zip code is ___.
   I want Senator\Representative ___ etc
 event-start-date: 2017-04-26 00:00:00 Z
