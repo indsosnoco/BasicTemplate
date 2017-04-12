@@ -1,6 +1,8 @@
 ---
 title: Senator Patty Murray
 date: 2017-04-11 21:40:00 Z
+phone-numbers:
+  office-name: "(202) 224-2621"
 website: https://www.murray.senate.gov/public/
 office:
   Everett, WA:
