@@ -1,13 +1,6 @@
 ---
 title: Senator Patty Murray
 date: 2017-04-11 21:40:00 Z
-D.C. Office: |-
-  Washington D.C. Office
-  154 Russell Senate Office Building
-  Washington, D.C. 20510
-  Phone: (202) 224-2621
-  Fax: (202) 224-0238
-  Toll Free: (866) 481-9186
 website: https://www.murray.senate.gov/public/
 ---
 
