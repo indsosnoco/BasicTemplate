@@ -2,7 +2,7 @@
 title: Sen Patty Murray
 date: 2017-04-11 21:40:00 Z
 phone-numbers:
-  154 Russell Senate Office Building <br>Washington, D.C. 20510: |-
+  154 Russell Senate Office Building <br>Washington D.C. 20510: |-
     Phone: (202) 224-2621<br>
     Fax: (202) 224-0238
   2930 Wetmore Avenue, Ste. 9D<br>Everett, Wa 98201: |-
@@ -10,7 +10,7 @@ phone-numbers:
     Fax: (425) 259-7152
   2988 Jackson Federal Building 915 2nd Avenue<br>Seattle, Wa 98174: |-
     Phone: (206) 553-5545<br>
-    Toll Free: (866) 481-9186
+    Fax: (206) 553-0891
 website: https://www.murray.senate.gov/public/
 ---
 
