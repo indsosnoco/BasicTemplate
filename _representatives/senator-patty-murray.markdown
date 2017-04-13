@@ -2,7 +2,7 @@
 title: Senator Patty Murray
 date: 2017-04-11 21:40:00 Z
 phone-numbers:
-  DC: 202) 224-2621
+  DC: "(202) 224-2621"
   Everett: "(425) 259-6515"
   Seattle: "(206) 553-5545"
 website: https://www.murray.senate.gov/public/
