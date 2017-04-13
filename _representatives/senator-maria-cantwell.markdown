@@ -1,5 +1,5 @@
 ---
-title: Senator Maria Cantwell
+title: Sen Maria Cantwell
 date: 2017-04-13 00:07:00 Z
 phone-numbers:
   DC: "(202) 224-3441"
