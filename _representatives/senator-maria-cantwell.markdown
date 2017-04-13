@@ -2,7 +2,11 @@
 title: Sen Maria Cantwell
 date: 2017-04-13 00:07:00 Z
 phone-numbers:
-  DC: "(202) 224-3441"
+  DC:
+  - 'Phone: (202) 224-3441
+
+'
+  - 'Fax: (202) 228-0514'
   Everett: "(425) 303-0114"
   Seattle: "(206) 220-6400"
 website: https://www.cantwell.senate.gov
