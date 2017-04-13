@@ -1,9 +1,11 @@
 ---
 title: Senator Patty Murray
 date: 2017-04-11 21:40:00 Z
+phone-numbers:
+  DC Office: 202) 224-2621
+website: https://www.murray.senate.gov/public/
 Offices:
   office-name: 
-website: https://www.murray.senate.gov/public/
 ---
 
 Washington D.C. Office
