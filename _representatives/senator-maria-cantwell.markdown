@@ -5,8 +5,12 @@ phone-numbers:
   511 Hart Senate Office Building Washington, DC 20510: |-
     Phone: (202) 224-3441 <br>
     Fax: (202) 228-0514
-  Everett: "(425) 303-0114"
-  Seattle: "(206) 220-6400"
+  2930 Wetmore Avenue, Suite 9B Everett, WA 98201: |-
+    Phone: (425) 303-0114 <br>
+    Fax: (425) 303-8351
+  915 Second Avenue, Suite 3206 Seattle, WA 98174: |-
+    Phone: (206) 220-6400 <br>
+    Fax: (206) 220-6404
 website: https://www.cantwell.senate.gov
 ---
 
