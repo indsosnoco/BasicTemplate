@@ -1,11 +1,9 @@
 ---
 title: Senator Patty Murray
 date: 2017-04-11 21:40:00 Z
-website: https://www.murray.senate.gov/public/
 Offices:
-  DC: |-
-    154 Russell Senate Office Building
-    Washington, D.C. 20510
+  office-name: 
+website: https://www.murray.senate.gov/public/
 ---
 
 Washington D.C. Office
