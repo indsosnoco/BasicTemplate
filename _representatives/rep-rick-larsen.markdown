@@ -1,5 +1,5 @@
 ---
-title: Rep Rick Larsen (District 2)
+title: Rep(2) Rick Larsen
 date: 2017-04-13 00:31:00 Z
 phone-numbers:
   DC: "(202) 225-2605"
