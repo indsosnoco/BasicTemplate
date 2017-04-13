@@ -2,9 +2,15 @@
 title: Sen Patty Murray
 date: 2017-04-11 21:40:00 Z
 phone-numbers:
-  DC: "(202) 224-2621"
-  Everett: "(425) 259-6515"
-  Seattle: "(206) 553-5545"
+  154 Russell Senate Office Building <br>Washington, D.C. 20510: |-
+    Phone: (202) 224-2621<br>
+    Fax: (202) 224-0238
+  2930 Wetmore Avenue, Ste. 9D<br>Everett, Wa 98201: |-
+    Phone: (425) 259-6515<br>
+    Fax: (425) 259-7152
+  2988 Jackson Federal Building 915 2nd Avenue<br>Seattle, Wa 98174: |-
+    Phone: (206) 553-5545<br>
+    Toll Free: (866) 481-9186
 website: https://www.murray.senate.gov/public/
 ---
 
