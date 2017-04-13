@@ -1,5 +1,5 @@
 ---
-title: Indivisible For All - South Snohomish County
+title: Indivisible For All
 timezone: UTC
 collections:
   posts:
@@ -57,13 +57,13 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are local citizens resisting the Trump agenda through civic action.
+subtitle: 
 email: indivisible4all@gmail.com
 baseurl: 
 url: 
 twitter_username: "@Ind4AllSoSnoCo"
 facebook_username: https://www.facebook.com/groups/270954050003471
-background-image: "/uploads/resist1.jpg"
+background-image: "/uploads/Indi_SoSnoCo_Logo.jpg"
 member-count: 60 and growing
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
