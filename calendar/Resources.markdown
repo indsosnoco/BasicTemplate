@@ -1,7 +1,7 @@
 ---
 title: Resources
 date: 2017-04-13 21:40:00 Z
-position: 1
+position: 0
 ---
 
  resources list will go here.
