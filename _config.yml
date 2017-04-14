@@ -76,3 +76,4 @@ exclude:
 - Gemfile
 - Gemfile.lock
 google_analytics: 
+image: "/uploads/Indi_SoSnoCo_Logo.jpg"
