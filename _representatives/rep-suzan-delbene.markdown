@@ -2,7 +2,6 @@
 title: District 1 <br> Rep Suzan Delbene
 date: 2017-04-13 00:27:00 Z
 phone-numbers:
-  Contacts: "     "
   2442 Rayburn House Office Building <br>Washington D.C. 20515: |-
     Phone: (202) 225-6311<br>
     Fax: (202) 226-1606
