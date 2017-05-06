@@ -4,11 +4,11 @@ date: 2017-04-14 12:47:00 Z
 position: 0
 ---
 
-<bold>Who are we?</bold><br>
+<b>Who are we?</b><br>
 Indivisible For All – South Snohomish County is a non-partisan, grassroots group of unpaid friends and neighbors living in or near South Snohomish County who are joined together by our mutual dedication to resisting the Trump agenda.  Our members hail from Washington State’s Congressional Districts 1, 2, 7 and 9.  We support policies that promote inclusion, fairness, truth, and respect for all and we resist racism, authoritarianism, and corruption in our government.   We resist the Trump agenda by holding our Members of Congress accountable for their actions.  Indivisible members believe that our values, our neighbors and our democracy are threatened by the Trump agenda, and, therefore, from our home turfs, we take easy, practical steps to defeat pro-Trump initiatives. <br><br>
 
 <bold>What is the Indivisible Guide?</bold><br>
-<a href="https://www.indivisibleguide.com/"> "The Indivisible Guide"</a> was written in late 2016 as a guide for resisting the Trump agenda by a group of former Congressional staffers who share progressive ideals.  These former Congressional staffers witnessed how the Tea Party successfully slowed and sometimes stopped President Obama’s agenda and have dedicated themselves to apply what they learned to slow and hopefully stop much of the Trump agenda.  
+<a href="https://www.indivisibleguide.com/">The Indivisible Guide</a> was written in late 2016 as a guide for resisting the Trump agenda by a group of former Congressional staffers who share progressive ideals.  These former Congressional staffers witnessed how the Tea Party successfully slowed and sometimes stopped President Obama’s agenda and have dedicated themselves to apply what they learned to slow and hopefully stop much of the Trump agenda.  
 
 The Guide advocates for the creation of unpaid, locally lead, grassroots organizations focused on each person’s three Members of Congress (sometimes called “MoCs”), one member of the House of Representatives and two Senators, who themselves are constantly focused on their own need for reelection.  Pressure is applied to each person’s three MoCs through town halls and other public events, in-person visits to district offices, and mass contact via phone calls, emails, letters and petitions.
 
