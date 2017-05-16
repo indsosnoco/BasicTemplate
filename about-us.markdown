@@ -22,7 +22,10 @@ If you want to start your own Indivisible group, <a href="https://www.indivisibl
 <br><br>
 <b>Getting involved!</b>
 Are you tired of just pounding on your kitchen table after seeing the most recent outrageous act by Trump and his followers?  Do you feel powerless to stop what you are seeing?  Join Indivisible to be with other like-minded volunteers.  It’s easy and there are no obligations.
+
+
 <br>Here’s some easy ways to become involved with our group:
+
 <br>Follow us on <a href="https://www.facebook.com/groups/270954050003471/">Facebook</a> and/or <a href="https://twitter.com/Ind4AllSoSnoCo">Twitter</a>,
 <a href="indivisible4all@gmail.com">email us</a> ,
 <a href="http://indivisiblesouthsnohomish.org/calendar.html">attend one of our meetings</a>,
