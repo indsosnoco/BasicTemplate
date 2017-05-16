@@ -96,6 +96,6 @@ position: 6
 
 [http://ualrpublicradio.org/post/read-our-full-conversation-george-lakoff-your-brain-trump#stream/0](http://ualrpublicradio.org/post/read-our-full-conversation-george-lakoff-your-brain-trump#stream/0): An NPR conversation with George Lakoff, emeritus professor of cognitive science and linguistics at the University of California, Berkeley, discussing people‘s mindsets in general and Trump’s effect on people’s minds in specific.
 
-[https://soundcloud.com/wsip/episode-14-a-former-staffer-on-how-to-call-your-moc-plus-indivisible-puyallups-joe-colombo](https://soundcloud.com/wsip/episode-14-a-former-staffer-on-how-to-call-your-moc-plus-indivisible-puyallups-joe-colombo): A Washington State Indivisible Podcast with tips on best ways to contact your Congressman.
+<a href="https://soundcloud.com/wsip">Washington State Indivisible Podcast</a>:  A Washington State Indivisible Podcast with tips on best ways to contact your Congressman.
 
 [https://twitter.com/slpng_giants](https://twitter.com/slpng_giants) and [https://www.facebook.com/slpnggiants](https://www.facebook.com/slpnggiants): Twitter and Facebook pages for Sleeping Giants; a group dedicated to stopping racist and sexist media by stopping ad dollars going to offending companies (principally Breibart).
