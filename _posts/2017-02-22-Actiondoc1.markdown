@@ -6,7 +6,7 @@ categories:
 tags:
 - call now
 - confirmation hearing
-is featured: false
+is featured: true
 call-script-text: Hi, my name is _____. I am calling to demand that an independent
   prosecutor be appointed to investigate the Trump campaign's Russian affiliations
   in light of the firing of James Comey.
