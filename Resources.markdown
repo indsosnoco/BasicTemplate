@@ -14,7 +14,7 @@ position: 6
 
 [<a href="https://presterity.org/">Presterity</a>:](https://presterity.org/)
 
-[<a href="http://budgetandpolicy.org/">](http://budgetandpolicy.org/)Washington State Budget and Policy Center</a>:  The Washington State Budget and Policy Center uses research and analysis to advocate for progressive policies.
+[<a href="http://budgetandpolicy.org">](http://budgetandpolicy.org/)Washington State Budget and Policy Center</a>:  The Washington State Budget and Policy Center uses research and analysis to advocate for progressive policies.
 
 ### <br><br>Find a Group
 
