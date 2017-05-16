@@ -25,9 +25,8 @@ Are you tired of just pounding on your kitchen table after seeing the most recen
 Here’s some easy ways to become involved with our group:
 
 Check out our website
-Follow us on <a href="https://www.facebook.com/groups/270954050003471/">Facebook</a> and/or <a href="https://twitter.com/Ind4AllSoSnoCo">Twitter</a>
-<a href="indivisible4all@gmail.com">Email Us</a> 
-subscribe to our email list (set up the email list mentioned on http://indivisiblesouthsnohomish.org/become-a-member.html)
- <a href="http://indivisiblesouthsnohomish.org/calendar.html">Attend one of our meetings</a>
-<a href="https://www.indivisibleguide.com/guide/">Read the Indivisible Guide</a>
- <a href="http://indivisiblesouthsnohomish.org">Click Become a Member</a>
+Follow us on <a href="https://www.facebook.com/groups/270954050003471/">Facebook</a> and/or <a href="https://twitter.com/Ind4AllSoSnoCo">Twitter</a>,
+<a href="indivisible4all@gmail.com">Email us</a> ,
+ <a href="http://indivisiblesouthsnohomish.org/calendar.html">attend one of our meetings</a>,
+<a href="https://www.indivisibleguide.com/guide/">read the Indivisible Guide</a>, and
+ <a href="http://indivisiblesouthsnohomish.org">click Become a Member</a>
