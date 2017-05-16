@@ -18,7 +18,7 @@ position: 6
 
 ### <br><br>Find a Group
 
-[https://www.indivisibleguide.com/](https://www.indivisibleguide.com/):
+[<a href="https://www.indivisibleguide.com/">The Indivisible Guide</a>](https://www.indivisibleguide.com/):
 
 [https://act.moveon.org/](https://act.moveon.org/): Launched in 1998, MoveOn claims to be the largest independent, progressive, digitally-connected organizing group in the United States.
 
