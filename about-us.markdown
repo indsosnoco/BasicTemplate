@@ -15,8 +15,8 @@ The Guide advocates for the creation of unpaid, locally led, grassroots organiza
 <b>What is the Indivisible Movement?</b><br>
 There are approximately 6,000 different groups that have registered with the Indivisible Guide throughout all 50 states of the union.  Some groups prefer to stay small, with only five or 10 friends or family members, while other groups are large and growing with a few thousand members.  Many members choose to join more than one Indivisible group.
 
-<b>Group members</b><br>
-Indivisible For All – South Snohomish County has approximately 50 active members and we hold bi-weekly membership meetings.  We welcome those who embrace the progressive values of inclusion, respect, and fairness.  Please <a href="indivisible4all@gmail.com">email us</a> if you have any questions.  If you wish to join our group, click <a href="http://indivisiblesouthsnohomish.org/become-a-member.html">Become a Member</a>.<br>
+<br><br>
+Indivisible For All – South Snohomish County has over 60 active members and we hold bi-weekly membership meetings.  We welcome those who embrace the progressive values of inclusion, respect, and fairness.  Please <a href="indivisible4all@gmail.com">email us</a> if you have any questions. <br> If you wish to join our group, click <a href="http://indivisiblesouthsnohomish.org/become-a-member.html">Become a Member</a>.<br>
 If you are interested in locating other Indivisible groups, <a href="https://www.indivisibleguide.com/act-locally/">click here</a>.<br>
 If you want to start your own Indivisible group, <a href="https://www.indivisibleguide.com/resources/online/group-leader-toolkit/#group-toolkit-header-intro">click here</a>.
 <br><br>
