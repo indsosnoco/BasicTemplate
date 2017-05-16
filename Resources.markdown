@@ -26,7 +26,7 @@ position: 6
 
 [http://fusewashington.org/](http://fusewashington.org/): The Fuse Washington website that describes itself as Washington State's largest progressive organization creating change online, on the ground, and on issues that matter.
 
-### Engage in Action
+### <br><br>Engage in Action
 
 [https://resistbot.io/](https://resistbot.io/): A free service providing a way to easily text a message to Members of Congress.
 
