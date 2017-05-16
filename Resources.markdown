@@ -16,7 +16,7 @@ position: 6
 
 [http://budgetandpolicy.org/](http://budgetandpolicy.org/): The Washington State Budget and Policy Center uses research and analysis to advocate for progressive policies.
 
-# Find a Group
+### Find a Group
 
 [https://www.indivisibleguide.com/](https://www.indivisibleguide.com/):
 
@@ -26,7 +26,7 @@ position: 6
 
 [http://fusewashington.org/](http://fusewashington.org/): The Fuse Washington website that describes itself as Washington State's largest progressive organization creating change online, on the ground, and on issues that matter.
 
-# Engage in Action
+### Engage in Action
 
 [https://resistbot.io/](https://resistbot.io/): A free service providing a way to easily text a message to Members of Congress.
 
@@ -40,7 +40,7 @@ position: 6
 
 [https://5calls.org/](https://5calls.org/): 5 Calls provides a list of current topics to choose at the federal level with listings of your relevant Member of Congress to contact, their contact information and scripts to consider.
 
-# Take to the Streets
+### Take to the Streets
 
 [http://nymag.com/selectall/2017/03/facebook-town-hall-feature-contacts-elected-officials.html](http://nymag.com/selectall/2017/03/facebook-town-hall-feature-contacts-elected-officials.html): A description of FaceBook’s Town Hall as a way to connect with state and federal elected representatives.
 
@@ -54,7 +54,7 @@ position: 6
 
 [https://www.aclu.org/](https://www.aclu.org/): Website of the American Civil Liberties Union
 
-# Get Involved in Elections
+### Get Involved in Elections
 
 [https://www.friendsofwashington.org/](https://www.friendsofwashington.org/): A 100% volunteer group which communicates information to help Democrats win control of the Washington State Senate.
 
@@ -84,7 +84,7 @@ position: 6
 
 [http://washingtonbus.org/](http://washingtonbus.org/): Washington Bus is youth-driven organization that increases political access and participation for young people across Washington State.
 
-# Miscellaneous Stuff:
+### Miscellaneous Stuff:
 
 [https://thinkprogress.org/a-simple-guide-to-how-you-can-throw-sand-in-the-trump-administrations-gears-64843da93664](https://thinkprogress.org/a-simple-guide-to-how-you-can-throw-sand-in-the-trump-administrations-gears-64843da93664): A January, 2017, article on how to resist the Trump administration.
 
