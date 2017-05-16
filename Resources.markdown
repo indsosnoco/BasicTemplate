@@ -22,7 +22,7 @@ position: 6
 
 [<a href="https://front.moveon.org/">MoveOn</a>](https://act.moveon.org/): Launched in 1998, MoveOn claims to be the largest independent, progressive, digitally-connected organizing group in the United States.
 
-[https://indivisiblewaenvironment.wordpress.com/environment-leaders-summit-time/](https://indivisiblewaenvironment.wordpress.com/environment-leaders-summit-time/): A blog site for an Indivisible group in Washington State focused on the environment.
+[<a href="https://indivisiblewaenvironment.wordpress.com/environment-leaders-summit-time/">Indivisible Environment (Washington State)</a>](https://indivisiblewaenvironment.wordpress.com/environment-leaders-summit-time/): A blog site for an Indivisible group in Washington State focused on the environment.
 
 [http://fusewashington.org/](http://fusewashington.org/): The Fuse Washington website that describes itself as Washington State's largest progressive organization creating change online, on the ground, and on issues that matter.
 
