@@ -16,7 +16,7 @@ position: 6
 
 [http://budgetandpolicy.org/](http://budgetandpolicy.org/): The Washington State Budget and Policy Center uses research and analysis to advocate for progressive policies.
 
-### Find a Group
+### <br><br>Find a Group
 
 [https://www.indivisibleguide.com/](https://www.indivisibleguide.com/):
 
