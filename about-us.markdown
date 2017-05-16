@@ -17,13 +17,13 @@ There are approximately 6,000 different groups that have registered with the Ind
 If you are interested in locating other Indivisible groups, <a href="https://www.indivisibleguide.com/act-locally/">click here</a>.<br>
 If you want to start your own Indivisible group, <a href="https://www.indivisibleguide.com/resources/online/group-leader-toolkit/#group-toolkit-header-intro">click here</a>.
 <br><br>
-<b>Getting involved!</b>
+<b>Get involved!</b><br><br>
 Are you tired of just pounding on your kitchen table after seeing the most recent outrageous act by Trump and his followers?  Do you feel powerless to stop what you are seeing?  Join Indivisible to be with other like-minded volunteers.  It’s easy and there are no obligations.
 
 <br><br>Here’s some easy ways to become involved with our group:
 
-<br><br>Follow us on <a href="https://www.facebook.com/groups/270954050003471/">Facebook</a> and/or <a href="https://twitter.com/Ind4AllSoSnoCo">Twitter</a>,
-<a href="indivisible4all@gmail.com">email us</a> ,
+<br><br>Follow us on <a href="https://www.facebook.com/groups/270954050003471/">Facebook</a> and/or <a href="https://twitter.com/Ind4AllSoSnoCo">Twitter</a>,<br>
+<a href="indivisible4all@gmail.com">email us</a> ,<br>
 <a href="http://indivisiblesouthsnohomish.org/calendar.html">attend one of our meetings</a>,
 <a href="https://www.indivisibleguide.com/guide/">read the Indivisible Guide</a>, and
 <a href="http://indivisiblesouthsnohomish.org">click to become a member</a>.
