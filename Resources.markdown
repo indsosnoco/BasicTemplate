@@ -24,7 +24,7 @@ position: 6
 
 [<a href="https://indivisiblewaenvironment.wordpress.com/environment-leaders-summit-time/">Indivisible Environment (Washington State)</a>](https://indivisiblewaenvironment.wordpress.com/environment-leaders-summit-time/): A blog site for an Indivisible group in Washington State focused on the environment.
 
-[http://fusewashington.org/](http://fusewashington.org/): The Fuse Washington website that describes itself as Washington State's largest progressive organization creating change online, on the ground, and on issues that matter.
+[<a href="http://fusewashington.org/">FuseWashington</a>](http://fusewashington.org/): The Fuse Washington website that describes itself as Washington State's largest progressive organization creating change online, on the ground, and on issues that matter.
 
 ### <br><br>Engage in Action
 
