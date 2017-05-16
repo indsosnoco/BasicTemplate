@@ -8,7 +8,7 @@ position: 6
 
 [<a href="https://www.ballotpedia.org/115th_United_States_Congress">Ballotpedia</a>](https://ballotpedia.org/115th_United_States_Congress):  A neutral, non-partisan online encyclopedia of American politics and elections including city, state, and federal levels.
 
-[<a href=http://www.cbpp.org/sites/default/files/atoms/files/4-13-17health-factsheets-wa.pdf".AHCA Analysis</a>  ](http://www.cbpp.org/sites/default/files/atoms/files/4-13-17health-factsheets-wa.pdf): An analysis of the House Republican’s American Health Care Act or AHCA prepared in April, 2017 by the Center on Budget and Policy Priorities.
+[<a href="http://www.cbpp.org/sites/default/files/atoms/files/4-13-17health-factsheets-wa.pdf">AHCA Analysis</a>  ](http://www.cbpp.org/sites/default/files/atoms/files/4-13-17health-factsheets-wa.pdf): An analysis of the House Republican’s American Health Care Act or AHCA prepared in April, 2017 by the Center on Budget and Policy Priorities.
 
 [http://leg.wa.gov/](http://leg.wa.gov/): Home page for the Washington State Legislature providing extensive information on the Washington State House and Senate, laws and agency rules, bill information and schedules and calendars.
 
