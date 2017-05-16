@@ -10,7 +10,7 @@ position: 6
 
 [<a href="http://www.cbpp.org/sites/default/files/atoms/files/4-13-17health-factsheets-wa.pdf">AHCA Analysis</a>  ](http://www.cbpp.org/sites/default/files/atoms/files/4-13-17health-factsheets-wa.pdf): An analysis of the House Republican’s American Health Care Act or AHCA prepared in April, 2017 by the Center on Budget and Policy Priorities.
 
-[http://leg.wa.gov/](http://leg.wa.gov/): Home page for the Washington State Legislature providing extensive information on the Washington State House and Senate, laws and agency rules, bill information and schedules and calendars.
+[<a href="http://leg.wa.gov/">Washington State Legislature Website</a>](http://leg.wa.gov/): Home page for the Washington State Legislature providing extensive information on the Washington State House and Senate, laws and agency rules, bill information and schedules and calendars.
 
 [https://presterity.org/](https://presterity.org/)
 
