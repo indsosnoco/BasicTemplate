@@ -17,7 +17,7 @@ There are approximately 6,000 different groups that have registered with the Ind
 If you are interested in locating other Indivisible groups, <a href="https://www.indivisibleguide.com/act-locally/">click here</a>.<br>
 If you want to start your own Indivisible group, <a href="https://www.indivisibleguide.com/resources/online/group-leader-toolkit/#group-toolkit-header-intro">click here</a>.
 <br><br>
-<b>Get involved!</b><br><br>
+<b>Get involved!</b>
 Are you tired of just pounding on your kitchen table after seeing the most recent outrageous act by Trump and his followers?  Do you feel powerless to stop what you are seeing?  Join Indivisible to be with other like-minded volunteers.  It’s easy and there are no obligations.
 
 <br>Here’s some easy ways to become involved with our group:
