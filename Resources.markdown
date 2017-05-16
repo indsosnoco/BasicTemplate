@@ -4,9 +4,9 @@ date: 2017-04-13 21:40:00 Z
 position: 6
 ---
 
-# **Get Informed**
+### **Get Informed**
 
-[<a href="https://www.ballotpedia.org/115th_United_States_Congress">Ballotpedia</a>](https://ballotpedia.org/115th_United_States_Congress): Described as a neutral, non-partisan online encyclopedia of American politics and elections including city, state, and federal levels.
+[<a href="https://www.ballotpedia.org/115th_United_States_Congress">Ballotpedia</a>](https://ballotpedia.org/115th_United_States_Congress):  A neutral, non-partisan online encyclopedia of American politics and elections including city, state, and federal levels.
 
 [http://www.cbpp.org/sites/default/files/atoms/files/4-13-17health-factsheets-wa.pdf](http://www.cbpp.org/sites/default/files/atoms/files/4-13-17health-factsheets-wa.pdf): An analysis of the House Republican’s American Health Care Act or AHCA prepared in April, 2017 by the Center on Budget and Policy Priorities.
 
