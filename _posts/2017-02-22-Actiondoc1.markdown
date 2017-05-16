@@ -7,11 +7,14 @@ tags:
 - call now
 - confirmation hearing
 is featured: false
-call-script-text: Hi, my name is ____, I'm a local constituent. My zip code is ___.
-  I want Senator\Representative ___ etc
-event-start-date: 2017-04-26 00:00:00 Z
-event-end-date: 2017-04-26 00:00:00 Z
+call-script-text: Hi, my name is _____. I am calling to demand that an independent
+  prosecutor be appointed to investigate the Trump campaign's Russian affiliations
+  in light of the firing of James Comey.
+event-start-date: 2017-05-16 00:00:00 Z
+event-end-date: 2017-05-21 00:00:00 Z
 Location: Location here
 ---
 
-Today's Daily Action description here
+The public comment line at the DOJ Office of the Attorney General is 202-353-1555. Leave a message demanding an independent prosecutor be appointed immediately to investigate Trump's ties to Russia, in light of the firing of James Comey. We must not back down: we must not relent: we must not delay.
+
+<a href="https://www.justice.gov/contact-us">Contact the DOJ Office</a>
