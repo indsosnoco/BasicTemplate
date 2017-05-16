@@ -20,7 +20,7 @@ position: 6
 
 [<a href="https://www.indivisibleguide.com/">The Indivisible Guide</a>](https://www.indivisibleguide.com/):
 
-[https://act.moveon.org/](https://act.moveon.org/): Launched in 1998, MoveOn claims to be the largest independent, progressive, digitally-connected organizing group in the United States.
+[<a href="https://front.moveon.org/"MoveOn</a>](https://act.moveon.org/): Launched in 1998, MoveOn claims to be the largest independent, progressive, digitally-connected organizing group in the United States.
 
 [https://indivisiblewaenvironment.wordpress.com/environment-leaders-summit-time/](https://indivisiblewaenvironment.wordpress.com/environment-leaders-summit-time/): A blog site for an Indivisible group in Washington State focused on the environment.
 
