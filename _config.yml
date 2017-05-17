@@ -57,7 +57,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: 
+subtitle: Testing Subtitle
 email: indivisible4all@gmail.com
 baseurl: 
 url: 
