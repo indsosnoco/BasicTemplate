@@ -58,9 +58,9 @@ position: 6
 
 ### <br><br>Get Involved in Elections
 
-[https://www.friendsofwashington.org/](https://www.friendsofwashington.org/): A 100% volunteer group which communicates information to help Democrats win control of the Washington State Senate.
+[<a href="https://www.friendsofwashington.org/">Friends of Washington</a>](https://www.friendsofwashington.org/): A 100% volunteer group which communicates information to help Democrats win control of the Washington State Senate.
 
-[http://www.vote411.org/](http://www.vote411.org/): A "one-stop-shop" for nonpartisan election related information launched by the League of Women Voters Education Fund in October of 2006 providing both general and state-specific information.
+[<a href="http://www.vote411.org/">Vote411</a>](http://www.vote411.org/): A "one-stop-shop" for nonpartisan election related information launched by the League of Women Voters Education Fund in October of 2006 providing both general and state-specific information.
 
 [https://wadems.ngpvanhost.com/](https://wadems.ngpvanhost.com/): A website of the Democratic Party in Washington State
 
@@ -68,7 +68,7 @@ position: 6
 
 <a href="http://www.emergeamerica.org/EmergeWA">Emerge Washington</a>:  The Washington State chapter of Emerge America which gives Democratic women who want to run for public office an in-depth, six-month, training program providing aspiring female leaders with tools and training to run for elected office and elevate themselves in our political system.
 
-[https://swingleft.org/](https://swingleft.org/): Swing Left helps you find and commit to supporting progressives in your closest Swing District so that you can help ensure we take back the House in 2018.
+[<a href="https://swingleft.org/">Swing Left</a>](https://swingleft.org/): Swing Left helps you find and commit to supporting progressives in your closest Swing District so that you can help ensure we take back the House in 2018.
 
 [https://www.youtube.com/watch?v=Vj8LNi__jOI](https://www.youtube.com/watch?v=Vj8LNi__jOI): YouTube video about SwingLeft and how Democrats can take back the House in 2018.
 
