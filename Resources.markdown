@@ -98,6 +98,6 @@ position: 6
 
 <a href="https://soundcloud.com/wsip">Washington State Indivisible Podcast</a>:  Episodes of the Washington State Indivisible Podcast.  All are interesting but Episode 14 includes tips on the best ways to contact your member of Congress.
 
-[<a href="https://twitter.com/slpng_giants">Sleeping Giants Facebook page</a> ](https://twitter.com/slpng_giants) and [https://www.facebook.com/slpnggiants](https://www.facebook.com/slpnggiants): Twitter and Facebook pages for Sleeping Giants; a group dedicated to stopping racist and sexist media by stopping ad dollars going to offending companies (principally Breibart).
+[<a href="https://twitter.com/slpng_giants">Sleeping Giants Facebook page</a> ](https://twitter.com/slpng_giants) and <a href="[https://www.facebook.com/slpnggiants">Sleeping Giants Twitter page</a>](https://www.facebook.com/slpnggiants): Twitter and Facebook pages for Sleeping Giants; a group dedicated to stopping racist and sexist media by stopping ad dollars going to offending companies (principally Breibart).
 
 <a href="https://getcrookedmedia.com/here-have-a-podcast-78ee56b5a323"> Pod Save America</a>
