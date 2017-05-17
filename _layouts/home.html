@@ -7,15 +7,6 @@ layout: default
   <!-- HOMEPAGE HEADER -->
   <img src=url('{{ site.background-image }}')></img>
 
-    <div class="clearfix home-header container relative">
-
-      <!-- SUBTITLE -->
-      <div class="row">
-        <div class="col-md-12">
-          <h1 class="mt-0 mb-0 {% if site.background-image %}text-white{% endif %}">{{ site.subtitle | escape }}</h1>
-        </div>
-      </div>
-
       {% if page.content %}
         <div class="spacer clearfix visible-sm-up"></div>
         {{ content }}
