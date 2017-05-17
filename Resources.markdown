@@ -28,7 +28,7 @@ position: 6
 
 ### <br><br>Engage in Action
 
-[https://resistbot.io/](https://resistbot.io/): A free service providing a way to easily text a message to Members of Congress.
+[<a href="https://resistbot.io/">Resistbot</a>](https://resistbot.io/): A free service providing a way to easily text a message to Members of Congress.
 
 [<a href="https://www.regulations.gov/searchResults?rpp=25&so=DESC&sb=postedDate&po=0&cs=3&dct=N%2BFR%2BPR">regulations.gov</a>](https://www.regulations.gov/searchResults?rpp=25&so=DESC&sb=postedDate&po=0&cs=3&dct=N%2BFR%2BPR): A federal government site providing the public access to the federal rulemaking process including a way to search for materials and provide comments on rules being drafted by the federal government.
 
