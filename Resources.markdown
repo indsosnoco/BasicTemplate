@@ -74,7 +74,7 @@ position: 6
 
 [http://www.wa-democrats.org/](http://www.wa-democrats.org/): Website of the Democratic Party in Washington State
 
-[https://www.sisterdistrict.com/](https://www.sisterdistrict.com/): Sister District Project is a national organization of local, volunteer groups focused on providing assistance to neighboring legislative and/or congressional districts for the purpose of electing progressive candidates in those neighboring districts.
+[<a href="https://www.sisterdistrict.com/">Sister District</a>](https://www.sisterdistrict.com/): Sister District Project is a national organization of local, volunteer groups focused on providing assistance to neighboring legislative and/or congressional districts for the purpose of electing progressive candidates in those neighboring districts.
 
 [https://www.flippable.org/](https://www.flippable.org/): Flippable is a national organization whose primary goal is to switch state governments to progressive control by identifying those conservative controlled state seats, that have a good prospect of being flipped to progressive in upcoming elections, and to provide action plans coordinate volunteers to help make that happen.
 
