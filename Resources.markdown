@@ -88,7 +88,7 @@ position: 6
 
 [https://thinkprogress.org/a-simple-guide-to-how-you-can-throw-sand-in-the-trump-administrations-gears-64843da93664](https://thinkprogress.org/a-simple-guide-to-how-you-can-throw-sand-in-the-trump-administrations-gears-64843da93664): A January, 2017, article on how to resist the Trump administration.
 
-[http://bepreparedtostop.org/](http://bepreparedtostop.org/): A documentary about our love of and absolute dependence on the American highway system.
+[<a href="http://bepreparedtostop.org/">American Highway System Documentary</a>](http://bepreparedtostop.org/):  A documentary about our love of and absolute dependence on the American highway system.
 
 [<a href="http://www.sfchronicle.com/politics/article/Next-step-for-Trump-resistance-Get-organized-11011955.php">San Francisco Chronicle March, 2017 Article</a>](http://www.sfchronicle.com/politics/article/Next-step-for-Trump-resistance-Get-organized-11011955.php): A March 2017 article on ways for the Trump resistance to fight burnout and maintain momentum.
 
