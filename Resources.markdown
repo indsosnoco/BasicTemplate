@@ -66,6 +66,8 @@ position: 6
 
 [http://amplify.win/](http://amplify.win/): Amplify recruits, trains, elects, and supports progressive champions for state and local office in the Northwest, prioritizing people of color, women, young people, and LGBTQ candidates.
 
+<a href="http://www.emergeamerica.org/EmergeWA">Emerge Washington</a>:  Emerge America gives Democratic women who want to run for public office an in-depth, six-month, training program providing aspiring female leaders with tools and training to run for elected office and elevate themselves in our political system.
+
 [https://swingleft.org/](https://swingleft.org/): Swing Left helps you find and commit to supporting progressives in your closest Swing District so that you can help ensure we take back the House in 2018.
 
 [https://www.youtube.com/watch?v=Vj8LNi__jOI](https://www.youtube.com/watch?v=Vj8LNi__jOI): YouTube video about SwingLeft and how Democrats can take back the House in 2018.
