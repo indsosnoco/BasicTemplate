@@ -64,7 +64,7 @@ position: 6
 
 [https://wadems.ngpvanhost.com/](https://wadems.ngpvanhost.com/): A website of the Democratic Party in Washington State
 
-[http://amplify.win/](http://amplify.win/): Amplify recruits, trains, elects, and supports progressive champions for state and local office in the Northwest, prioritizing people of color, women, young people, and LGBTQ candidates.
+[<a href="http://amplify.win/">Amplify</a>](http://amplify.win/): Amplify recruits, trains, elects, and supports progressive champions for state and local office in the Northwest, prioritizing people of color, women, young people, and LGBTQ candidates.
 
 <a href="http://www.emergeamerica.org/EmergeWA">Emerge Washington</a>:  The Washington State chapter of Emerge America which gives Democratic women who want to run for public office an in-depth, six-month, training program providing aspiring female leaders with tools and training to run for elected office and elevate themselves in our political system.
 
