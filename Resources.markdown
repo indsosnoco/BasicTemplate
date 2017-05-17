@@ -12,7 +12,7 @@ position: 6
 
 [<a href="http://leg.wa.gov/">Washington State Legislature Website</a>](http://leg.wa.gov/): Home page for the Washington State Legislature providing extensive information on the Washington State House and Senate, laws and agency rules, bill information and schedules and calendars.
 
-[<a href="https://presterity.org/">Presterity</a>:](https://presterity.org/)
+[<a href="https://presterity.org/">Presterity</a>: ](https://presterity.org/)  A community project that grounds and orients citizens to the best available sources of information on a wide variety of topics related to the Trump Administration.
 
 [<a href="http://budgetandpolicy.org">](http://budgetandpolicy.org/)Washington State Budget and Policy Center</a>:  The Washington State Budget and Policy Center uses research and analysis to advocate for progressive policies.
 
