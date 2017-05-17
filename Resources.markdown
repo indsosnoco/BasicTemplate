@@ -40,7 +40,7 @@ position: 6
 
 [https://5calls.org/](https://5calls.org/): 5 Calls provides a list of current topics to choose at the federal level with listings of your relevant Member of Congress to contact, their contact information and scripts to consider.
 
-<a href="https://www.justice.gov/doj/webform/your-message-department-justice">U.S. Justice Department Contact Page<.a> :  Contact Us webpage to send a message to the Department of Justice.
+<a href="https://www.justice.gov/doj/webform/your-message-department-justice">U.S. Justice Department Contact Page<.a>:  Contact Us webpage to send a message to the Department of Justice.
 
 ### <br><br>Take to the Streets
 
