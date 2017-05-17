@@ -32,11 +32,11 @@ position: 6
 
 [https://www.regulations.gov/searchResults?rpp=25&so=DESC&sb=postedDate&po=0&cs=3&dct=N%2BFR%2BPR](https://www.regulations.gov/searchResults?rpp=25&so=DESC&sb=postedDate&po=0&cs=3&dct=N%2BFR%2BPR): A federal government site providing the public access to the federal rulemaking process including a way to search for materials and provide comments on rules being drafted by the federal government.
 
-[https://www.ourstates.org/#ourstates](https://www.ourstates.org/#ourstates): Connects communities to actionable information and tools to reject the Trump / GOP agenda in every state and protect communities from harm.
+[<a href="https://www.ourstates.org/#ourstates">OurStates</a>](https://www.ourstates.org/#ourstates): Connects communities to actionable information and tools to reject the Trump / GOP agenda in every state and protect communities from harm.
 
 [<a href="https://registermefirst.com/">Register Me First</a>](https://registermefirst.com/): A registry of those opposed to the Muslim registry affiliated with the Council on American-Islamic Relations.
 
-[<a href="https://www.wall-of-us.org/">Wall of Us</a>](https://www.wall-of-us.org/): A website that will deliver four concrete acts of resistance to your inbox each week.
+[<a href="https://www.wall-of-us.org/">wall-of-us</a>](https://www.wall-of-us.org/): A website that will deliver four concrete acts of resistance to your inbox each week.
 
 [<a href="https://5calls.org/">5Calls</a>](https://5calls.org/): 5 Calls provides a list of current topics to choose at the federal level with listings of your relevant Member of Congress to contact, their contact information and scripts to consider.
 
