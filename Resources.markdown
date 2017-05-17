@@ -90,7 +90,7 @@ position: 6
 
 [http://bepreparedtostop.org/](http://bepreparedtostop.org/): A documentary about our love of and absolute dependence on the American highway system.
 
-[http://www.sfchronicle.com/politics/article/Next-step-for-Trump-resistance-Get-organized-11011955.php](http://www.sfchronicle.com/politics/article/Next-step-for-Trump-resistance-Get-organized-11011955.php): A March 2017 article on ways for the Trump resistance to fight burnout and maintain momentum.
+[<a href="http://www.sfchronicle.com/politics/article/Next-step-for-Trump-resistance-Get-organized-11011955.php">San Francisco Chronicle March, 2017 Article</a>](http://www.sfchronicle.com/politics/article/Next-step-for-Trump-resistance-Get-organized-11011955.php): A March 2017 article on ways for the Trump resistance to fight burnout and maintain momentum.
 
 [<a href="http://www.huffingtonpost.com/entry/bill-oreilly-advertiser-boycott_us_58ebdf24e4b0df7e20446bb4">Huffington Post April, 2017 Article</a>](http://www.huffingtonpost.com/entry/bill-oreilly-advertiser-boycott_us_58ebdf24e4b0df7e20446bb4): An April 2017 article on how activists helped to destroy Bill O’Reilly’s reputation with advertisers.
 
