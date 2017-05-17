@@ -94,7 +94,7 @@ position: 6
 
 [http://www.huffingtonpost.com/entry/bill-oreilly-advertiser-boycott_us_58ebdf24e4b0df7e20446bb4](http://www.huffingtonpost.com/entry/bill-oreilly-advertiser-boycott_us_58ebdf24e4b0df7e20446bb4): An April 2017 article on how activists helped to destroy Bill O’Reilly’s reputation with advertisers.
 
-[<a href="http://ualrpublicradio.org/post/read-our-full-conversation-george-lakoff-your-brain-trump#stream/0">NPR Interview with  George Lakoff</a>](http://ualrpublicradio.org/post/read-our-full-conversation-george-lakoff-your-brain-trump#stream/0): An NPR conversation with George Lakoff, emeritus professor of cognitive science and linguistics at the University of California, Berkeley, discussing people‘s mindsets in general and Trump’s effect on people’s minds in specific.
+[<a href="http://ualrpublicradio.org/post/read-our-full-conversation-george-lakoff-your-brain-trump#stream/0">NPR Interview with  George Lakoff</a>](http://ualrpublicradio.org/post/read-our-full-conversation-george-lakoff-your-brain-trump#stream/0): An NPR interview with George Lakoff, emeritus professor of cognitive science and linguistics at the University of California, Berkeley, discussing people‘s mindsets in general and Trump’s effect on people’s minds in specific.
 
 <a href="https://soundcloud.com/wsip">Washington State Indivisible Podcast</a>:  Episodes of the Washington State Indivisible Podcast.  All are interesting but Episode 14 includes tips on the best ways to contact your member of Congress.
 
