@@ -86,7 +86,7 @@ position: 6
 
 ### <br><br>Miscellaneous Stuff:
 
-[https://thinkprogress.org/a-simple-guide-to-how-you-can-throw-sand-in-the-trump-administrations-gears-64843da93664](https://thinkprogress.org/a-simple-guide-to-how-you-can-throw-sand-in-the-trump-administrations-gears-64843da93664): A January, 2017, article on how to resist the Trump administration.
+[<a href="https://thinkprogress.org/a-simple-guide-to-how-you-can-throw-sand-in-the-trump-administrations-gears-64843da93664">January, 2017 Article by Think Progress</a>](https://thinkprogress.org/a-simple-guide-to-how-you-can-throw-sand-in-the-trump-administrations-gears-64843da93664): A January, 2017, article on how to resist the Trump administration.
 
 [<a href="http://bepreparedtostop.org/">American Highway System Documentary</a>](http://bepreparedtostop.org/):  A documentary about our love of and absolute dependence on the American highway system.
 
