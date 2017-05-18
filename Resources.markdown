@@ -52,7 +52,7 @@ position: 6
 
 [<a href="https://peoplepower.org/">People Power</a>](https://peoplepower.org/): PeoplePower, sponsored by the ACLU, helps organize small, grassroots, groups to protest when the Trump agenda violates people’s constitutional rights.
 
-[https://www.aclu.org/](https://www.aclu.org/): Website of the American Civil Liberties Union
+[<a href="https://www.aclu.org/">American Civil Liberties Union</a>](https://www.aclu.org/): Website of the ACLU.
 
 ### <br><br>Get Involved in Elections
 
