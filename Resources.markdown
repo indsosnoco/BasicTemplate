@@ -50,7 +50,7 @@ position: 6
 
 [<a href="https://risestronger.org/events">Events Listing by Rise Stronger </a>](https://risestronger.org/events): Listings of Town Halls, protests, rallies and other events across the U.S.
 
-[https://peoplepower.org/](https://peoplepower.org/): PeoplePower, sponsored by the ACLU, helps organize small, grassroots, groups to protest when the Trump agenda violates people’s constitutional rights.
+[<a href="https://peoplepower.org/">People Power</a>](https://peoplepower.org/): PeoplePower, sponsored by the ACLU, helps organize small, grassroots, groups to protest when the Trump agenda violates people’s constitutional rights.
 
 [https://www.aclu.org/](https://www.aclu.org/): Website of the American Civil Liberties Union
 
