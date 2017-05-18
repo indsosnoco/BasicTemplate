@@ -46,7 +46,7 @@ position: 6
 
 [<a href="http://nymag.com/selectall/2017/03/facebook-town-hall-feature-contacts-elected-officials.html">Facebook's Town Hall  Feature</a>](http://nymag.com/selectall/2017/03/facebook-town-hall-feature-contacts-elected-officials.html): A description of FaceBook’s Town Hall as a way to connect with state and federal elected representatives.
 
-[https://townhallproject-86312.firebaseapp.com/](https://townhallproject-86312.firebaseapp.com/): Listings of Town Halls and other events across the U.S.
+[<a href="https://townhallproject-86312.firebaseapp.com/">Town Hall Project</a>](https://townhallproject-86312.firebaseapp.com/): Listings of Town Halls and other events across the U.S.
 
 [https://risestronger.org/events](https://risestronger.org/events): Listings of Town Halls, protests, rallies and other events across the U.S.
 
