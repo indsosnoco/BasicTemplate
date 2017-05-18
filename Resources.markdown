@@ -48,9 +48,7 @@ position: 6
 
 [<a href="https://townhallproject-86312.firebaseapp.com/">Town Hall Project</a>](https://townhallproject-86312.firebaseapp.com/): Listings of Town Halls and other events across the U.S.
 
-[https://risestronger.org/events](https://risestronger.org/events): Listings of Town Halls, protests, rallies and other events across the U.S.
-
-[https://risestronger.org/](https://risestronger.org/)
+[<a href="https://risestronger.org/events">Events Listing by Rise Stronger </a>](https://risestronger.org/events): Listings of Town Halls, protests, rallies and other events across the U.S.
 
 [https://peoplepower.org/](https://peoplepower.org/): PeoplePower, sponsored by the ACLU, helps organize small, grassroots, groups to protest when the Trump agenda violates people’s constitutional rights.
 
