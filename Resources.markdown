@@ -16,7 +16,7 @@ position: 6
 
 [<a href="http://budgetandpolicy.org">](http://budgetandpolicy.org/)Washington State Budget and Policy Center</a>:  The Washington State Budget and Policy Center uses research and analysis to advocate for progressive policies.
 
-[<a href="https://www.govtrack.us/">GofTraK</a>](https://www.govtrack.us/): GovTrack tracks the U.S. Congress and helps Americans participate in their national legislature. It publishes the status of federal legislation, information about Members of Congress including voting records, and original research on bills and votes.
+[<a href="https://www.govtrack.us/">GovTrack</a>](https://www.govtrack.us/): GovTrack tracks the U.S. Congress and helps Americans participate in their national legislature. It publishes the status of federal legislation, information about Members of Congress including voting records, and original research on bills and votes.
 
 ### <br><br>Find a Group
 
