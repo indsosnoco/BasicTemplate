@@ -68,7 +68,7 @@ position: 6
 
 [<a href="https://swingleft.org/">Swing Left</a>](https://swingleft.org/): Swing Left helps you find and commit to supporting progressives in your closest Swing District so that you can help ensure we take back the House in 2018.
 
-[<a href="https://www.youtube.com/watch?v=Vj8LNi__jOI">Swing Left You Tube Video<.a>](https://www.youtube.com/watch?v=Vj8LNi__jOI): YouTube video about SwingLeft and how Democrats can take back the House in 2018.
+[<a href="https://www.youtube.com/watch?v=Vj8LNi__jOI">Swing Left You Tube Video</a>](https://www.youtube.com/watch?v=Vj8LNi__jOI): YouTube video about SwingLeft and how Democrats can take back the House in 2018.
 
 [http://www.wa-democrats.org/](http://www.wa-democrats.org/): Website of the Democratic Party in Washington State
 
