@@ -44,7 +44,7 @@ position: 6
 
 ### <br><br>Take to the Streets
 
-[http://nymag.com/selectall/2017/03/facebook-town-hall-feature-contacts-elected-officials.html](http://nymag.com/selectall/2017/03/facebook-town-hall-feature-contacts-elected-officials.html): A description of FaceBook’s Town Hall as a way to connect with state and federal elected representatives.
+[<a href="http://nymag.com/selectall/2017/03/facebook-town-hall-feature-contacts-elected-officials.html">Facebook's Town Hall  Feature</a>](http://nymag.com/selectall/2017/03/facebook-town-hall-feature-contacts-elected-officials.html): A description of FaceBook’s Town Hall as a way to connect with state and federal elected representatives.
 
 [https://townhallproject-86312.firebaseapp.com/](https://townhallproject-86312.firebaseapp.com/): Listings of Town Halls and other events across the U.S.
 
