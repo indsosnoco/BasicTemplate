@@ -20,8 +20,6 @@ position: 6
 
 <a href=”[http://timeline.lawyersforgoodgovernment.org/#event-timeline](http://timeline.lawyersforgoodgovernment.org/#event-timeline)”>Trump-Russia Timeline</a>: A detailed timeline of Trump’s Russia connections from 1984 to the present.
 
- mmaries of upc(p��v;
-
 ### <br><br>Find a Group
 
 [<a href="https://www.indivisibleguide.com/">Indivisible</a>](https://www.indivisibleguide.com/):  Dedicated to resisting the Trump agenda through contacts with Members of Congress.
