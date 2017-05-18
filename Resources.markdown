@@ -74,17 +74,17 @@ position: 6
 
 [<a href="https://www.sisterdistrict.com/">Sister District</a>](https://www.sisterdistrict.com/): Sister District Project is a national organization of local, volunteer groups focused on providing assistance to neighboring legislative and/or congressional districts for the purpose of electing progressive candidates in those neighboring districts.
 
-[https://www.flippable.org/](https://www.flippable.org/): Flippable is a national organization whose primary goal is to switch state governments to progressive control by identifying those conservative controlled state seats, that have a good prospect of being flipped to progressive in upcoming elections, and to provide action plans coordinate volunteers to help make that happen.
+[<a href="https://www.flippable.org/">Flippable</a>](https://www.flippable.org/): Flippable is a national organization whose primary goal is to switch state governments to progressive control by identifying those conservative controlled state seats, that have a good prospect of being flipped to progressive in upcoming elections, and to provide action plans coordinate volunteers to help make that happen.
 
-[https://brandnewcongress.org/](https://brandnewcongress.org/): Brand New Congress, originally started by a group of volunteers and staffers from the Bernie Sanders presidential campaign, is a campaign to run 400\+ non-politician candidates for Congress in 2018 in one unified campaign behind one plan to rebuild the economy, repair our communities and radically reform our institutions.
+[<a href="https://brandnewcongress.org/">Brand New Congress</a>](https://brandnewcongress.org/): Brand New Congress, originally started by a group of volunteers and staffers from the Bernie Sanders presidential campaign, is a campaign to run 400\+ non-politician candidates for Congress in 2018 in one unified campaign behind one plan to rebuild the economy, repair our communities and radically reform our institutions.
 
-[https://ourrevolution.com/](https://ourrevolution.com/): Our Revolution is made up of veterans and volunteers of the Bernie 2016 campaign and intends to transform American politics to make our political and economic systems once again responsive to the needs of working families
+[<a href="https://ourrevolution.com/">Rou Revolution</a>](https://ourrevolution.com/): Our Revolution is made up of veterans and volunteers of the Bernie 2016 campaign and intends to transform American politics to make our political and economic systems once again responsive to the needs of working families
 
-[https://www.codeblue.team/](https://www.codeblue.team/): Code Blue’s mission is to rebuild a progressive voting majority in federal, state and local government.
+[<a href="https://www.codeblue.team/">Code Blue</a>](https://www.codeblue.team/): Code Blue’s mission is to rebuild a progressive voting majority in federal, state and local government.
 
-[https://www.theresurgentleft.org/](https://www.theresurgentleft.org/): The Resurgent Left will be supporting Democratic state and local candidates in red, blue and purple states and at all levels of government.
+[<a href="https://www.theresurgentleft.org/">Ther Resurgent Left</a>](https://www.theresurgentleft.org/): The Resurgent Left will be supporting Democratic state and local candidates in red, blue and purple states and at all levels of government.
 
-[http://washingtonbus.org/](http://washingtonbus.org/): Washington Bus is youth-driven organization that increases political access and participation for young people across Washington State.
+[<a href="http://washingtonbus.org/">Washington Bus</a>](http://washingtonbus.org/): Washington Bus is youth-driven organization that increases political access and participation for young people across Washington State.
 
 ### <br><br>Miscellaneous Stuff:
 
