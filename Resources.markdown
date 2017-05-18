@@ -78,11 +78,11 @@ position: 6
 
 [<a href="https://brandnewcongress.org/">Brand New Congress</a>](https://brandnewcongress.org/): Brand New Congress, originally started by a group of volunteers and staffers from the Bernie Sanders presidential campaign, is a campaign to run 400\+ non-politician candidates for Congress in 2018 in one unified campaign behind one plan to rebuild the economy, repair our communities and radically reform our institutions.
 
-[<a href="https://ourrevolution.com/">Rou Revolution</a>](https://ourrevolution.com/): Our Revolution is made up of veterans and volunteers of the Bernie 2016 campaign and intends to transform American politics to make our political and economic systems once again responsive to the needs of working families
+[<a href="https://ourrevolution.com/">Our Revolution</a>](https://ourrevolution.com/): Our Revolution is made up of veterans and volunteers of the Bernie 2016 campaign and intends to transform American politics to make our political and economic systems once again responsive to the needs of working families
 
 [<a href="https://www.codeblue.team/">Code Blue</a>](https://www.codeblue.team/): Code Blue’s mission is to rebuild a progressive voting majority in federal, state and local government.
 
-[<a href="https://www.theresurgentleft.org/">Ther Resurgent Left</a>](https://www.theresurgentleft.org/): The Resurgent Left will be supporting Democratic state and local candidates in red, blue and purple states and at all levels of government.
+[<a href="https://www.theresurgentleft.org/">The Resurgent Left</a>](https://www.theresurgentleft.org/): The Resurgent Left will be supporting Democratic state and local candidates in red, blue and purple states and at all levels of government.
 
 [<a href="http://washingtonbus.org/">Washington Bus</a>](http://washingtonbus.org/): Washington Bus is youth-driven organization that increases political access and participation for young people across Washington State.
 
