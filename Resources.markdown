@@ -14,7 +14,7 @@ position: 6
 
 [<a href="https://presterity.org/">Presterity</a>: ](https://presterity.org/)  A community project providing citizens with  sources of information on a wide variety of topics related to the Trump Administration.
 
-[<a href="http://budgetandpolicy.org">](http://budgetandpolicy.org/)Washington State Budget and Policy Center</a>:  The Washington State Budget and Policy Center uses research and analysis to advocate for progressive policies.
+[<a href="http://budgetandpolicy.org">]Washington State Budget and Policy Center</a>:  The Washington State Budget and Policy Center uses research and analysis to advocate for progressive policies.
 
 [<a href="https://www.govtrack.us/">GovTrack</a>](https://www.govtrack.us/): GovTrack tracks the U.S. Congress and helps Americans participate in their national legislature. It publishes the status of federal legislation, information about Members of Congress including voting records, and original research on bills and votes.
 
