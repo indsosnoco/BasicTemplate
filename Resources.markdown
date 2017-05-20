@@ -6,19 +6,19 @@ position: 6
 
 ### **Get Informed**
 
-[<a href="https://www.ballotpedia.org/115th_United_States_Congress">Ballotpedia</a>](https://ballotpedia.org/115th_United_States_Congress):  A neutral, non-partisan online encyclopedia of American politics and elections including city, state, and federal levels.
+<a href="https://www.ballotpedia.org/115th_United_States_Congress">Ballotpedia</a>:  A neutral, non-partisan online encyclopedia of American politics and elections including city, state, and federal levels.
 
-[<a href="http://www.cbpp.org/sites/default/files/atoms/files/4-13-17health-factsheets-wa.pdf">AHCA Analysis</a>  ](http://www.cbpp.org/sites/default/files/atoms/files/4-13-17health-factsheets-wa.pdf): An analysis of the House Republican’s American Health Care Act or AHCA prepared in April, 2017 by the Center on Budget and Policy Priorities.
+<a href="http://www.cbpp.org/sites/default/files/atoms/files/4-13-17health-factsheets-wa.pdf">AHCA Analysis</a>: An analysis of the House Republican’s American Health Care Act or AHCA prepared in April, 2017 by the Center on Budget and Policy Priorities.
 
-[<a href="http://leg.wa.gov/">Washington State Legislature Website</a>](http://leg.wa.gov/): Home page for the Washington State Legislature providing extensive information on the Washington State House and Senate, laws and agency rules, bill information and schedules and calendars.
+<a href="http://leg.wa.gov/">Washington State Legislature Website</a>: Home page for the Washington State Legislature providing extensive information on the Washington State House and Senate, laws and agency rules, bill information and schedules and calendars.
 
-[<a href="https://presterity.org/">Presterity</a>: ](https://presterity.org/)  A community project providing citizens with  sources of information on a wide variety of topics related to the Trump Administration.
+<a href="https://presterity.org/">Presterity</a>:  A community project providing citizens with  sources of information on a wide variety of topics related to the Trump Administration.
 
-[<a href="http://budgetandpolicy.org">Washington State Budget and Policy Center</a>:](http://budgetandpolicy.org/)  The Washington State Budget and Policy Center uses research and analysis to advocate for progressive policies.
+<a href="http://budgetandpolicy.org">Washington State Budget and Policy Center</a>: The Washington State Budget and Policy Center uses research and analysis to advocate for progressive policies.
 
-[<a href="https://www.govtrack.us/">GovTrack</a>](https://www.govtrack.us/): GovTrack tracks the U.S. Congress and helps Americans participate in their national legislature. It publishes the status of federal legislation, information about Members of Congress including voting records, and original research on bills and votes.
+<a href="https://www.govtrack.us/">GovTrack</a>: GovTrack tracks the U.S. Congress and helps Americans participate in their national legislature. It publishes the status of federal legislation, information about Members of Congress including voting records, and original research on bills and votes.
 
-[<a href="http://timeline.lawyersforgoodgovernment.org/#event-timeline">Trump-Russia Timeline</a>:] (http://timeline.lawyersforgoodgovernment.org/#event-timeline) A detailed timeline of Trump’s Russia connections from 1984 to the present.
+[<a href="http://timeline.lawyersforgoodgovernment.org/#event-timeline">Trump-Russia Timeline</a>: A detailed timeline of Trump’s Russia connections from 1984 to the present.
 
 ### <br><br>Find a Group
 
