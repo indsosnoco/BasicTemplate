@@ -92,28 +92,28 @@ position: 6
 
 [<a href="https://www.theresurgentleft.org/">The Resurgent Left</a>](https://www.theresurgentleft.org/): The Resurgent Left will be supporting Democratic state and local candidates in red, blue and purple states and at all levels of government.
 
-[<a href="http://washingtonbus.org/">Washington Bus</a>](http://washingtonbus.org/): Washington Bus is youth-driven organization that increases political access and participation for young people across Washington State.
+<a href="http://washingtonbus.org/">Washington Bus</a>: Washington Bus is youth-driven organization that increases political access and participation for young people across Washington State.
 
 ### <br><br>Miscellaneous Stuff:
 
-[<a href="https://thinkprogress.org/a-simple-guide-to-how-you-can-throw-sand-in-the-trump-administrations-gears-64843da93664">January, 2017 Article by Think Progress</a>](https://thinkprogress.org/a-simple-guide-to-how-you-can-throw-sand-in-the-trump-administrations-gears-64843da93664): A January, 2017, article on how to resist the Trump administration.
+<a href="https://thinkprogress.org/a-simple-guide-to-how-you-can-throw-sand-in-the-trump-administrations-gears-64843da93664">January, 2017 Article by Think Progress</a>: A January, 2017, article on how to resist the Trump administration.
 
-[<a href="http://bepreparedtostop.org/">American Highway System Documentary</a>](http://bepreparedtostop.org/):  A documentary about our love of and absolute dependence on the American highway system.
+<a href="http://bepreparedtostop.org/">American Highway System Documentary</a>:  A documentary about our love of and absolute dependence on the American highway system.
 
-[<a href="http://www.sfchronicle.com/politics/article/Next-step-for-Trump-resistance-Get-organized-11011955.php">San Francisco Chronicle March, 2017 Article</a>](http://www.sfchronicle.com/politics/article/Next-step-for-Trump-resistance-Get-organized-11011955.php): A March 2017 article on ways for the Trump resistance to fight burnout and maintain momentum.
+<a href="http://www.sfchronicle.com/politics/article/Next-step-for-Trump-resistance-Get-organized-11011955.php">San Francisco Chronicle March, 2017 Article</a>: A March 2017 article on ways for the Trump resistance to fight burnout and maintain momentum.
 
-[<a href="http://www.huffingtonpost.com/entry/bill-oreilly-advertiser-boycott_us_58ebdf24e4b0df7e20446bb4">Huffington Post April, 2017 Article</a>](http://www.huffingtonpost.com/entry/bill-oreilly-advertiser-boycott_us_58ebdf24e4b0df7e20446bb4): An April 2017 article on how activists helped to destroy Bill O’Reilly’s reputation with advertisers.
+<a href="http://www.huffingtonpost.com/entry/bill-oreilly-advertiser-boycott_us_58ebdf24e4b0df7e20446bb4">Huffington Post April, 2017 Article</a>: An April 2017 article on how activists helped to destroy Bill O’Reilly’s reputation with advertisers.
 
-[<a href="http://ualrpublicradio.org/post/read-our-full-conversation-george-lakoff-your-brain-trump#stream/0">NPR Interview with  George Lakoff</a>](http://ualrpublicradio.org/post/read-our-full-conversation-george-lakoff-your-brain-trump#stream/0): An NPR interview with George Lakoff, emeritus professor of cognitive science and linguistics at the University of California, Berkeley, discussing people‘s mindsets in general and Trump’s effect on people’s minds in specific.
+<a href="http://ualrpublicradio.org/post/read-our-full-conversation-george-lakoff-your-brain-trump#stream/0">NPR Interview with  George Lakoff</a>: An NPR interview with George Lakoff, emeritus professor of cognitive science and linguistics at the University of California, Berkeley, discussing people‘s mindsets in general and Trump’s effect on people’s minds in specific.
 
 <a href="https://soundcloud.com/wsip">Washington State Indivisible Podcast</a>:  Episodes of the Washington State Indivisible Podcast.  All are interesting but Episode 14 includes tips on the best ways to contact your member of Congress.
 
-[<a href="https://twitter.com/slpng_giants">Sleeping Giants Twitter page</a> ](https://twitter.com/slpng_giants) and <a href="https://www.facebook.com/slpnggiants">Sleeping Giants Facebook page</a>](https://www.facebook.com/slpnggiants): Twitter and Facebook pages for Sleeping Giants; a group dedicated to stopping racist and sexist media by stopping ad dollars going to offending companies (principally Breibart).
+<a href="https://twitter.com/slpng_giants">Sleeping Giants Twitter page</a> and <a href="https://www.facebook.com/slpnggiants">Sleeping Giants Facebook page</a>: Twitter and Facebook pages for Sleeping Giants; a group dedicated to stopping racist and sexist media by stopping ad dollars going to offending companies (principally Breibart).
 
 <a href="https://getcrookedmedia.com/here-have-a-podcast-78ee56b5a323"> Pod Save America</a>:   A political podcast by Jon Favreau and Jon Lovett, both former Obama speechwriters, and Tommy Vietor who is a former Obama National Security Spokesman and Assistant White House Press Secretary.
 
 <a href="http://podcast.cnn.com/axefiles">The Axe Files</a>:  A podcast by David Axelrod who was  the Chief Strategist for Obama's presidential campaigns.
 
-[<a href="https://grabyourwallet.org/">Grab Your Wallet</a>](https://grabyourwallet.org/): A central resource for understanding how our own consumer purchases may have inadvertently supported the political rise of the Trump family and protesting against those companies that support them.
+<a href="https://grabyourwallet.org/">Grab Your Wallet</a>: A central resource for understanding how our own consumer purchases may have inadvertently supported the political rise of the Trump family and protesting against those companies that support them.
 
-[<a href="https://www.womensmarch.com/">Womens March</a>](https://www.womensmarch.com/): Website of the Women’s March
+<a href="https://www.womensmarch.com/">Womens March</a>: Website of the Women’s March
