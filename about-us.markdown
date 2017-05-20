@@ -5,7 +5,7 @@ position: 0
 ---
 
 
-<div class="onionskin absolute"></div>
+
 <TABLE BORDER="0" cellpadding="0" CELLSPACING="0">
 <TR>
 
