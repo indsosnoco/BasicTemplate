@@ -9,7 +9,7 @@ position: 0
 <TABLE BORDER="0" cellpadding="0" CELLSPACING="0">
 <TR>
 
-<TD WIDTH="100%" HEIGHT="70%" BACKGROUND="/uploads/resist1.jpg"  VALIGN="bottom">
+<TD WIDTH="100%" HEIGHT="150" BACKGROUND="/uploads/resist1.jpg"  VALIGN="bottom">
 
 <FONT SIZE="+5" COLOR="white">We are citizens resisting the Trump Agenda<br>through civic action</FONT></TD>
 
