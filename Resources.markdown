@@ -18,47 +18,47 @@ position: 6
 
 <a href="https://www.govtrack.us/">GovTrack</a>: GovTrack tracks the U.S. Congress and helps Americans participate in their national legislature. It publishes the status of federal legislation, information about Members of Congress including voting records, and original research on bills and votes.
 
-[<a href="http://timeline.lawyersforgoodgovernment.org/#event-timeline">Trump-Russia Timeline</a>: A detailed timeline of Trump’s Russia connections from 1984 to the present.
+<a href="http://timeline.lawyersforgoodgovernment.org/#event-timeline">Trump-Russia Timeline</a>: A detailed timeline of Trump’s Russia connections from 1984 to the present.
 
 ### <br><br>Find a Group
 
-[<a href="https://www.indivisibleguide.com/">Indivisible</a>](https://www.indivisibleguide.com/):  Dedicated to resisting the Trump agenda through contacts with Members of Congress.
+<a href="https://www.indivisibleguide.com/">Indivisible</a>:  Dedicated to resisting the Trump agenda through contacts with Members of Congress.
 
-[<a href="https://front.moveon.org/">MoveOn</a>](https://act.moveon.org/): Launched in 1998, MoveOn claims to be the largest independent, progressive, digitally-connected organizing group in the United States.
+<a href="https://front.moveon.org/">MoveOn</a>: Launched in 1998, MoveOn claims to be the largest independent, progressive, digitally-connected organizing group in the United States.
 
-[<a href="https://indivisiblewaenvironment.wordpress.com/environment-leaders-summit-time/">Indivisible Environment (Washington State)</a>](https://indivisiblewaenvironment.wordpress.com/environment-leaders-summit-time/): A blog site for an Indivisible group in Washington State focused on the environment.
+<a href="https://indivisiblewaenvironment.wordpress.com/environment-leaders-summit-time/">Indivisible Environment (Washington State)</a>: A blog site for an Indivisible group in Washington State focused on the environment.
 
-[<a href="http://fusewashington.org/">FuseWashington</a>](http://fusewashington.org/):  Fuse Washington is Washington State's largest progressive organization creating change online, on the ground, and on issues that matter.
+<a href="http://fusewashington.org/">FuseWashington</a>:  Fuse Washington is Washington State's largest progressive organization creating change online, on the ground, and on issues that matter.
 
 ### <br><br>Engage in Action
 
-[<a href="https://resistbot.io/">Resistbot</a>](https://resistbot.io/): A free service providing a way to easily text a message to Members of Congress.
+<a href="https://resistbot.io/">Resistbot</a>: A free service providing a way to easily text a message to Members of Congress.
 
-[<a href="https://www.regulations.gov/searchResults?rpp=25&so=DESC&sb=postedDate&po=0&cs=3&dct=N%2BFR%2BPR">regulations.gov</a>](https://www.regulations.gov/searchResults?rpp=25&so=DESC&sb=postedDate&po=0&cs=3&dct=N%2BFR%2BPR): A federal government site providing the public access to the federal rulemaking process including a way to search for materials and provide comments on rules being drafted by the federal government.
+<a href="https://www.regulations.gov/searchResults?rpp=25&so=DESC&sb=postedDate&po=0&cs=3&dct=N%2BFR%2BPR">regulations.gov</a>: A federal government site providing the public access to the federal rulemaking process including a way to search for materials and provide comments on rules being drafted by the federal government.
 
-[<a href="https://www.ourstates.org/#ourstates">OurStates</a>](https://www.ourstates.org/#ourstates): Connects communities to actionable information and tools to reject the Trump / GOP agenda in every state and protect communities from harm.
+<a href="https://www.ourstates.org/#ourstates">OurStates</a>: Connects communities to actionable information and tools to reject the Trump / GOP agenda in every state and protect communities from harm.
 
-[<a href="https://registermefirst.com/">Register Me First</a>](https://registermefirst.com/): A registry of those opposed to the Muslim registry affiliated with the Council on American-Islamic Relations.
+<a href="https://registermefirst.com/">Register Me First</a>: A registry of those opposed to the Muslim registry affiliated with the Council on American-Islamic Relations.
 
-[<a href="https://www.wall-of-us.org/">wall-of-us</a>](https://www.wall-of-us.org/): A website that will deliver four concrete acts of resistance to your inbox each week.
+<a href="https://www.wall-of-us.org/">wall-of-us</a>: A website that will deliver four concrete acts of resistance to your inbox each week.
 
-[<a href="https://5calls.org/">5Calls</a>](https://5calls.org/): 5 Calls provides a list of current topics to choose at the federal level with listings of your relevant Member of Congress to contact, their contact information and scripts to consider.
+<a href="https://5calls.org/">5Calls</a>: 5 Calls provides a list of current topics to choose at the federal level with listings of your relevant Member of Congress to contact, their contact information and scripts to consider.
 
 <a href="https://www.justice.gov/doj/webform/your-message-department-justice">U.S. Justice Department Contact Page</a>:  Contact Us webpage to send a message to the Department of Justice.
 
-[<a href="https://www.countable.us/">Countable</a>](https://www.countable.us/): Countable makes it quick and easy to understand the laws Congress is considering and streamlines the process of contacting Members of Congress. It provides clear and succinct summaries of upcoming and active legislation, a way to directly tell MoCs how to vote on those bills by clicking “Yea” or “Nay”, and a way to follow up on how elected officials voted on bills.
+<a href="https://www.countable.us/">Countable</a>: Countable makes it quick and easy to understand the laws Congress is considering and streamlines the process of contacting Members of Congress. It provides clear and succinct summaries of upcoming and active legislation, a way to directly tell MoCs how to vote on those bills by clicking “Yea” or “Nay”, and a way to follow up on how elected officials voted on bills.
 
-[<a href="https://dailyaction.org/">Daily Action</a>](https://dailyaction.org/): Provides daily action alerts via text message.
+<a href="https://dailyaction.org/">Daily Action</a>: Provides daily action alerts via text message.
 
 ### <br><br>Take to the Streets
 
-[<a href="http://nymag.com/selectall/2017/03/facebook-town-hall-feature-contacts-elected-officials.html">Facebook's Town Hall  Feature</a>](http://nymag.com/selectall/2017/03/facebook-town-hall-feature-contacts-elected-officials.html): A description of FaceBook’s Town Hall as a way to connect with state and federal elected representatives.
+<a href="http://nymag.com/selectall/2017/03/facebook-town-hall-feature-contacts-elected-officials.html">Facebook's Town Hall  Feature</a>: A description of FaceBook’s Town Hall as a way to connect with state and federal elected representatives.
 
-[<a href="https://townhallproject-86312.firebaseapp.com/">Town Hall Project</a>](https://townhallproject-86312.firebaseapp.com/): Listings of Town Halls and other events across the U.S.
+<a href="https://townhallproject-86312.firebaseapp.com/">Town Hall Project</a>: Listings of Town Halls and other events across the U.S.
 
-[<a href="https://risestronger.org/events">Events Listing by Rise Stronger </a>](https://risestronger.org/events): Listings of Town Halls, protests, rallies and other events across the U.S.
+<a href="https://risestronger.org/events">Events Listing by Rise Stronger </a>: Listings of Town Halls, protests, rallies and other events across the U.S.
 
-[<a href="https://peoplepower.org/">People Power</a>](https://peoplepower.org/): PeoplePower, sponsored by the ACLU, helps organize small, grassroots, groups to protest when the Trump agenda violates people’s constitutional rights.
+<a href="https://peoplepower.org/">People Power</a>: PeoplePower, sponsored by the ACLU, helps organize small, grassroots, groups to protest when the Trump agenda violates people’s constitutional rights.
 
 [<a href="https://www.aclu.org/">American Civil Liberties Union</a>](https://www.aclu.org/): Website of the ACLU.
 
