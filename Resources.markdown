@@ -60,25 +60,25 @@ position: 6
 
 <a href="https://peoplepower.org/">People Power</a>: PeoplePower, sponsored by the ACLU, helps organize small, grassroots, groups to protest when the Trump agenda violates people’s constitutional rights.
 
-[<a href="https://www.aclu.org/">American Civil Liberties Union</a>](https://www.aclu.org/): Website of the ACLU.
+<a href="https://www.aclu.org/">American Civil Liberties Union</a>: Website of the ACLU.
 
 ### <br><br>Get Involved in Elections
 
-[<a href="https://www.friendsofwashington.org/">Friends of Washington</a>](https://www.friendsofwashington.org/): A 100% volunteer group which communicates information to help Democrats win control of the Washington State Senate.
+<a href="https://www.friendsofwashington.org/">Friends of Washington</a>: A 100% volunteer group which communicates information to help Democrats win control of the Washington State Senate.
 
-[<a href="http://www.vote411.org/">Vote411</a>](http://www.vote411.org/): A "one-stop-shop" for nonpartisan election related information launched by the League of Women Voters Education Fund in October of 2006 providing both general and state-specific information.
+<a href="http://www.vote411.org/">Vote411</a>: A "one-stop-shop" for nonpartisan election related information launched by the League of Women Voters Education Fund in October of 2006 providing both general and state-specific information.
 
 [https://wadems.ngpvanhost.com/](https://wadems.ngpvanhost.com/): A website of the Democratic Party in Washington State
 
-[<a href="http://amplify.win/">Amplify</a>](http://amplify.win/): Amplify recruits, trains, elects, and supports progressive champions for state and local office in the Northwest, prioritizing people of color, women, young people, and LGBTQ candidates.
+<a href="http://amplify.win/">Amplify</a>: Amplify recruits, trains, elects, and supports progressive champions for state and local office in the Northwest, prioritizing people of color, women, young people, and LGBTQ candidates.
 
 <a href="http://www.emergeamerica.org/EmergeWA">Emerge Washington</a>:  The Washington State chapter of Emerge America which gives Democratic women who want to run for public office an in-depth, six-month, training program providing aspiring female leaders with tools and training to run for elected office and elevate themselves in our political system.
 
-[<a href="https://swingleft.org/">Swing Left</a>](https://swingleft.org/): Swing Left helps you find and commit to supporting progressives in your closest Swing District so that you can help ensure we take back the House in 2018.
+<a href="https://swingleft.org/">Swing Left</a>: Swing Left helps you find and commit to supporting progressives in your closest Swing District so that you can help ensure we take back the House in 2018.
 
-[<a href="https://www.youtube.com/watch?v=Vj8LNi__jOI">Swing Left You Tube Video</a>](https://www.youtube.com/watch?v=Vj8LNi__jOI): YouTube video about SwingLeft and how Democrats can take back the House in 2018.
+<a href="https://www.youtube.com/watch?v=Vj8LNi__jOI">Swing Left You Tube Video</a>: YouTube video about SwingLeft and how Democrats can take back the House in 2018.
 
-[http://www.wa-democrats.org/](http://www.wa-democrats.org/): Website of the Democratic Party in Washington State
+[http://www.wa-democrats.org/]: Website of the Democratic Party in Washington State
 
 [<a href="https://www.sisterdistrict.com/">Sister District</a>](https://www.sisterdistrict.com/): Sister District Project is a national organization of local, volunteer groups focused on providing assistance to neighboring legislative and/or congressional districts for the purpose of electing progressive candidates in those neighboring districts.
 
