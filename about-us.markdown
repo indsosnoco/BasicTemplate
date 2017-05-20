@@ -11,7 +11,7 @@ position: 0
 
 <TD WIDTH="100%" HEIGHT="300" BACKGROUND="/uploads/resist1.jpg"  VALIGN="bottom">
 
-<FONT SIZE="+5" COLOR="white">We are citizens resisting the Trump Agenda through civic action</FONT></TD>
+<FONT SIZE="+5" COLOR="white">We are citizens <br> resisting the Trump Agenda<br>through civic action</FONT></TD>
 
 </TR>
 </TABLE>
