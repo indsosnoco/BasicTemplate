@@ -4,7 +4,7 @@ date: 2017-04-14 12:47:00 Z
 position: 0
 ---
 
-<div class="clearfix home-header-wrap" style="background-image: "/uploads/resist1.jpg">
+<div class="clearfix home-header-wrap" style="background-image: /uploads/resist1.jpg">
 <div class="onionskin absolute"></div>
 
 <b>Who are we?</b><br>
