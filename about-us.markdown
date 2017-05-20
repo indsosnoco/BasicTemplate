@@ -4,14 +4,15 @@ date: 2017-04-14 12:47:00 Z
 position: 0
 ---
 
-<div class="clearfix home-header-wrap" style="background-image: /uploads/resist1.jpg">
+<div class="clearfix home-header-wrap" style="background-image:/uploads/resist1.jpg">
 <div class="onionskin absolute"></div>
 <div class="clearfix home-header container relative">
       <div class="row">
         <div class="col-md-12">
-          <h1 class="mt-0 mb-0 text-white">"We are citizens resisting the Trump Agenda through civic action</h1>
+          <h1 class="mt-0 mb-0 text-white">We are citizens resisting the Trump Agenda through civic action</h1>
         </div>
       </div>
+    </div>
 
 
 <b>Who are we?</b><br>
