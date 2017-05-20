@@ -9,9 +9,9 @@ position: 0
 <TABLE BORDER="0" cellpadding="0" CELLSPACING="0">
 <TR>
 
-<TD WIDTH="800" HEIGHT="300" BACKGROUND="/uploads/resist1.jpg"  VALIGN="bottom">
+<TD WIDTH="500" HEIGHT="300" BACKGROUND="/uploads/resist1.jpg"  VALIGN="bottom">
 
-<FONT SIZE="+5" COLOR="white"><center>We are citizens resisting the Trump Agenda through civic action</Center></FONT></TD>
+<FONT SIZE="+5" COLOR="white">We are citizens resisting the Trump Agenda through civic action</FONT></TD>
 
 </TR>
 </TABLE>
