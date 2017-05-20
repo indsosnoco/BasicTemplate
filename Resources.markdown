@@ -19,7 +19,7 @@ position: 6
 <a href="https://www.govtrack.us/">GovTrack</a>: GovTrack tracks the U.S. Congress and helps Americans participate in their national legislature. It publishes the status of federal legislation, information about Members of Congress including voting records, and original research on bills and votes.
 
 <a href="http://timeline.lawyersforgoodgovernment.org/#event-timeline">Trump-Russia Timeline</a>: A detailed timeline of Trump’s Russia connections from 1984 to the present.
-
+<div></div>
 ### <br><br>Find a Group
 
 <a href="https://www.indivisibleguide.com/">Indivisible</a>:  Dedicated to resisting the Trump agenda through contacts with Members of Congress.
