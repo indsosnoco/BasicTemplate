@@ -5,7 +5,7 @@ position: 6
 ---
 
 ### **Get Informed**
-
+<HR>
 <a href="https://www.ballotpedia.org/115th_United_States_Congress">Ballotpedia</a>:  A neutral, non-partisan online encyclopedia of American politics and elections including city, state, and federal levels.
 
 <a href="http://www.cbpp.org/sites/default/files/atoms/files/4-13-17health-factsheets-wa.pdf">AHCA Analysis</a>: An analysis of the House Republican’s American Health Care Act or AHCA prepared in April, 2017 by the Center on Budget and Policy Priorities.
@@ -19,8 +19,10 @@ position: 6
 <a href="https://www.govtrack.us/">GovTrack</a>: GovTrack tracks the U.S. Congress and helps Americans participate in their national legislature. It publishes the status of federal legislation, information about Members of Congress including voting records, and original research on bills and votes.
 
 <a href="http://timeline.lawyersforgoodgovernment.org/#event-timeline">Trump-Russia Timeline</a>: A detailed timeline of Trump’s Russia connections from 1984 to the present.
-<div></div>
+
+<HR>
 ### <br><br>Find a Group
+<HR>
 
 <a href="https://www.indivisibleguide.com/">Indivisible</a>:  Dedicated to resisting the Trump agenda through contacts with Members of Congress.
 
@@ -30,7 +32,9 @@ position: 6
 
 <a href="http://fusewashington.org/">FuseWashington</a>:  Fuse Washington is Washington State's largest progressive organization creating change online, on the ground, and on issues that matter.
 
+<HR>
 ### <br><br>Engage in Action
+<HR>
 
 <a href="https://resistbot.io/">Resistbot</a>: A free service providing a way to easily text a message to Members of Congress.
 
@@ -50,7 +54,9 @@ position: 6
 
 <a href="https://dailyaction.org/">Daily Action</a>: Provides daily action alerts via text message.
 
+<HR>
 ### <br><br>Take to the Streets
+<HR>
 
 <a href="http://nymag.com/selectall/2017/03/facebook-town-hall-feature-contacts-elected-officials.html">Facebook's Town Hall  Feature</a>: A description of FaceBook’s Town Hall as a way to connect with state and federal elected representatives.
 
@@ -62,7 +68,9 @@ position: 6
 
 <a href="https://www.aclu.org/">American Civil Liberties Union</a>: Website of the ACLU.
 
+<HR>
 ### <br><br>Get Involved in Elections
+<HR>
 
 <a href="https://www.friendsofwashington.org/">Friends of Washington</a>: A 100% volunteer group which communicates information to help Democrats win control of the Washington State Senate.
 
@@ -82,19 +90,21 @@ position: 6
 
 [<a href="https://www.sisterdistrict.com/">Sister District</a>](https://www.sisterdistrict.com/): Sister District Project is a national organization of local, volunteer groups focused on providing assistance to neighboring legislative and/or congressional districts for the purpose of electing progressive candidates in those neighboring districts.
 
-[<a href="https://www.flippable.org/">Flippable</a>](https://www.flippable.org/): Flippable is a national organization whose primary goal is to switch state governments to progressive control by identifying those conservative controlled state seats, that have a good prospect of being flipped to progressive in upcoming elections, and to provide action plans coordinate volunteers to help make that happen.
+<a href="https://www.flippable.org/">Flippable</a>: Flippable is a national organization whose primary goal is to switch state governments to progressive control by identifying those conservative controlled state seats, that have a good prospect of being flipped to progressive in upcoming elections, and to provide action plans coordinate volunteers to help make that happen.
 
-[<a href="https://brandnewcongress.org/">Brand New Congress</a>](https://brandnewcongress.org/): Brand New Congress, originally started by a group of volunteers and staffers from the Bernie Sanders presidential campaign, is a campaign to run 400\+ non-politician candidates for Congress in 2018 in one unified campaign behind one plan to rebuild the economy, repair our communities and radically reform our institutions.
+<a href="https://brandnewcongress.org/">Brand New Congress</a>: Brand New Congress, originally started by a group of volunteers and staffers from the Bernie Sanders presidential campaign, is a campaign to run 400\+ non-politician candidates for Congress in 2018 in one unified campaign behind one plan to rebuild the economy, repair our communities and radically reform our institutions.
 
-[<a href="https://ourrevolution.com/">Our Revolution</a>](https://ourrevolution.com/): Our Revolution is made up of veterans and volunteers of the Bernie 2016 campaign and intends to transform American politics to make our political and economic systems once again responsive to the needs of working families
+<a href="https://ourrevolution.com/">Our Revolution</a>: Our Revolution is made up of veterans and volunteers of the Bernie 2016 campaign and intends to transform American politics to make our political and economic systems once again responsive to the needs of working families
 
-[<a href="https://www.codeblue.team/">Code Blue</a>](https://www.codeblue.team/): Code Blue’s mission is to rebuild a progressive voting majority in federal, state and local government.
+<a href="https://www.codeblue.team/">Code Blue</a>: Code Blue’s mission is to rebuild a progressive voting majority in federal, state and local government.
 
-[<a href="https://www.theresurgentleft.org/">The Resurgent Left</a>](https://www.theresurgentleft.org/): The Resurgent Left will be supporting Democratic state and local candidates in red, blue and purple states and at all levels of government.
+<a href="https://www.theresurgentleft.org/">The Resurgent Left</a>: The Resurgent Left will be supporting Democratic state and local candidates in red, blue and purple states and at all levels of government.
 
 <a href="http://washingtonbus.org/">Washington Bus</a>: Washington Bus is youth-driven organization that increases political access and participation for young people across Washington State.
 
+<HR>
 ### <br><br>Miscellaneous Stuff:
+<HR>
 
 <a href="https://thinkprogress.org/a-simple-guide-to-how-you-can-throw-sand-in-the-trump-administrations-gears-64843da93664">January, 2017 Article by Think Progress</a>: A January, 2017, article on how to resist the Trump administration.
 
