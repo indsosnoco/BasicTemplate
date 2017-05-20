@@ -4,7 +4,7 @@ date: 2017-04-14 12:47:00 Z
 position: 0
 ---
 
-<img src="/uploads/resist1.jpg">We are citizens resisting the Trump Agenda through civic action.</img>
+<img src="/uploads/resist1.jpg" style="background-image: url("/uploads/resist1.jpg")">We are citizens resisting the Trump Agenda through civic action.</img>
 
  
 
