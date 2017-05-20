@@ -5,17 +5,17 @@ position: 0
 ---
 
 
-
+<onion-skin>
 <TABLE BORDER="0" cellpadding="0" CELLSPACING="0">
 <TR>
 
-<TD WIDTH="500" HEIGHT="300" BACKGROUND="/uploads/resist1.jpg"  VALIGN="bottom">
+<TD WIDTH="100%" HEIGHT="300" BACKGROUND="/uploads/resist1.jpg"  VALIGN="bottom">
 
 <FONT SIZE="+5" COLOR="white">We are citizens resisting the Trump Agenda through civic action</FONT></TD>
 
 </TR>
 </TABLE>
-
+</onion-skin>
 
 <b>Who are we?</b><br>
 Indivisible For All – South Snohomish County is a non-partisan, grassroots group of unpaid friends and neighbors living in or near South Snohomish County who are joined together by our mutual dedication to resisting the Trump agenda.  Our members hail from Washington State’s Congressional Districts 1, 2, 7 and 9.  We support policies that promote inclusion, fairness, truth, and respect for all and we resist racism, authoritarianism, and corruption in our government.   We resist the Trump agenda by holding our Members of Congress accountable for their actions.  Indivisible members believe that our values, our neighbors and our democracy are threatened by the Trump agenda and, therefore, from our home turfs, we take easy, practical steps to defeat pro-Trump initiatives. <br><br>
