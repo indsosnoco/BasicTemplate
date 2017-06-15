@@ -2,6 +2,9 @@
 title: Indivisible For All
 timezone: UTC
 collections:
+  100s-rally-at-dave-reicherts-office:
+    title: 100s Rally at Dave Reichert's Office
+    output: true
   posts:
     title: Posts
     output: true
