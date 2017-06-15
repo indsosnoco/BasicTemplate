@@ -1,7 +1,7 @@
 ---
 title: 100s Rally at Dave Reichert's Issaquah Office
 date: 2017-06-15 22:15:00 Z
-is featured: true
+is featured: false
 main-image: "/uploads/Reichert%20Rally%202.jpg"
 ---
 
